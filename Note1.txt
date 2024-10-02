@@ -1,0 +1,10 @@
+
+
+
+
+
+Upcoming Works for this Major Project: 
+
+- > Using React.js in Front-end and Laravel as Back-end API
+or another option is to use interia.js which will fully integrate React with 
+Laravel. 
